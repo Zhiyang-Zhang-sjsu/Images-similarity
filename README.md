@@ -8,5 +8,5 @@
 
 ## Testing
 1. python3 app.py
-2. Request a user's authentication token
-3. Send a testing JSON format datagram to ***.***.***.***:5000 (The header must have the user's authentication token) 
+2. Request a user's authentication token. (See Image 1. User information: username = DyNotify, password = DyNotifyTaskAssessment)
+3. Send a testing JSON format datagram to ***.***.***.***:5000. (See Image 2. The header must have the user's authentication token.) 
